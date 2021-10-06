@@ -1,0 +1,21 @@
+{
+  "name": "foundation-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fullcalendar/interaction": "^5.9.0",
+    "axios": "^0.22.0",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fullcalendar": "^5.9.0",
+    "moment": "^2.29.1"
+  }
+}

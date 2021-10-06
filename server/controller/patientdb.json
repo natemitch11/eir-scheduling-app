@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Leroy Jenkins",
+    "address": "1234 Easy Street, Lehi, Utah 84043",
+    "phone": "801-123-4567",
+    "email": "leroyjenkins@gmail.com",
+    "gender": "male",
+    "pronouns": "he-him",
+    "birthdate": "1983-01-01",
+    "insurance": "Cigna",
+    "insuranceIdNum": "C123456789",
+    "policyExpDate": "12/31/2022",
+    "appointments": [
+      {
+        "id": "yee",
+        "title": "Leroy Jenkins",
+        "start": "2021-10-06T08:30:",
+        "color": "#B48291"
+      },
+      {
+        "id": "yee",
+        "title": "Leroy Jenkins",
+        "start": "2021-10-08T08:30:00",
+        "color": "#B48291"
+      },
+      {
+        "id": "yee",
+        "title": "Leroy Jenkins",
+        "start": "2021-10-11T08:30:00",
+        "color": "#B48291"
+      },
+      {
+        "id": "yee",
+        "title": "Leroy Jenkins",
+        "start": "2021-10-13T08:30:00",
+        "color": "#B48291"
+      },
+      {
+        "id": "yee",
+        "title": "Leroy Jenkins",
+        "start": "2021-10-15T08:30:00",
+        "color": "#B48291"
+      },
+      {
+        "id": "yee",
+        "title": "Leroy Jenkins",
+        "start": "2021-10-18T08:30:00",
+        "color": "#B48291"
+      }
+    ],
+    "provider": "yee"
+  },
+  {
+    "id": 7,
+    "name": "Long John Silver",
+    "address": "4567 Easy Street, Lehi, Utah 84043",
+    "phone": "801-987-6543",
+    "email": "longjohn@gmail.com",
+    "gender": "male",
+    "pronouns": "he-him",
+    "birthdate": "1985-01-01",
+    "insurance": "Humana",
+    "insuranceIdNum": "H987654321",
+    "policyExpDate": "12/31/2022",
+    "appointments": [
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-06T10:30:00",
+        "color": "#28C2FF"
+      },
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-12T10:30:00",
+        "color": "#28C2FF"
+      },
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-14T10:30:00",
+        "color": "#28C2FF"
+      },
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-18T10:30:00",
+        "color": "#28C2FF"
+      },
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-20T10:30:00",
+        "color": "#28C2FF"
+      },
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-22T10:30:00",
+        "color": "#28C2FF"
+      },
+      {
+        "id": "robotnik",
+        "title": "Long John Silver",
+        "start": "2021-10-25T10:30:00",
+        "color": "#28C2FF"
+      }
+    ],
+    "provider": "robotnik"
+  },
+  {
+    "id": 3,
+    "name": "Rebecca Black",
+    "address": "1011 Easy Street, Lehi, Utah 84043",
+    "phone": "801-111-2222",
+    "email": "rebeccablack@gmail.com",
+    "gender": "female",
+    "pronouns": "she-her",
+    "birthdate": "1982-01-01",
+    "insurance": "Blue Cross Blue Shield",
+    "insuranceIdNum": "BC101112131",
+    "policyExpDate": "12/31/2022",
+    "appointments": [
+      {
+        "id": "strange",
+        "title": "Rebecca Black",
+        "start": "2021-10-08T15:30:00",
+        "color": "#63A375"
+      },
+      {
+        "id": "strange",
+        "title": "Rebecca Black",
+        "start": "2021-10-15T15:30:00",
+        "color": "#63A375"
+      },
+      {
+        "id": "strange",
+        "title": "Rebecca Black",
+        "start": "2021-10-22T15:30:00",
+        "color": "#63A375"
+      },
+      {
+        "id": "strange",
+        "title": "Rebecca Black",
+        "start": "2021-10-29T15:30:00",
+        "color": "#63A375"
+      }
+    ],
+    "provider": "strange"
+  }
+]

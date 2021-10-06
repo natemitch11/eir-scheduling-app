@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link type='text/css' rel="stylesheet" href="/login/login.css" />
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <title>Eir Register</title>
+  </head>
+  <body>
+    <div class="logo-container">
+      <img src="../assets/Eir Health.png" alt="logo" />
+    </div>
+    <div class="login-container">
+      <p>Create a Username and Password</p>
+      <form id="register-user">
+        <input id="first-name" type="text" placeholder="First Name" required />
+        <input id="last-name" type="text" placeholder="Last Name" required />
+        <input id="email" type="text" placeholder="Email" required />
+        <div>
+          <input id="username" type="text" placeholder="Username" required />
+          <input
+            id="password"
+            type="password"
+            placeholder="Password"
+            required
+          />
+          <input
+            id="password2"
+            type="password"
+            placeholder="Re-enter Password"
+            required
+          />
+        </div>
+      </form>
+      <div class="registerbtn-container">
+        <button id="register-btn">Register</button>
+        <a href="/">
+          <p>Return to Login</p>
+        </a>
+      </div>
+    </div>
+    <script src="register.js"></script>
+  </body>
+</html>
